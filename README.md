@@ -1,16 +1,22 @@
-## Hi there 👋
+## Oi! Eu sou a Juliêta 👋
 
-<!--
-**JulietaFranca/JulietaFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐞🎯 Analista de Qualidade de Software Júnior III - QA 🐞🎯 
 
-Here are some ideas to get you started:
+🚀 Atuo com foco na prevenção de bugs, promovendo uma mentalidade voltada para a qualidade em toda a equipe e em seus procesos.
+💪🏼Vamos testar?!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Responsabilidades de Ferramentas: 
+
+- 🖊️Inserindo e facilitando a aplicação de processos de qualidade no ciclo de desenvolvimento do produto com entregas otimizadas
+- ⚙️ Execução de testes exploratórios, regressivos, integração e manuais (caixa preta)
+- 🐞 Análise, monitoramento/gestão, report de bugs/inconsistências, validando correções durante a execução das sprints
+- 🗓️ Planejamento, Estimativas e Documentação
+- ✍🏼 BDD e Gherkin
+- 🤝🏼 Apoio ao PO
+- 🧪 Execução e Evidência
+- 📌 Participação de cerimônias ágeis
+- 🔎 Proposição de melhora contínua 
+
+<div>
+  <a href="https://www.linkedin.com/in/juliêta-de-frança-974567184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
