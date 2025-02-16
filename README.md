@@ -14,6 +14,7 @@
 - ✍🏼 BDD e Gherkin
 - 🤝🏼 Apoio ao PO
 - 🧪 Execução e Evidência
+- 💻 Azure DevOps
 - 📌 Participação de cerimônias ágeis
 - 🔎 Proposição de melhora contínua 
 
