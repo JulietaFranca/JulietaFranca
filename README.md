@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Juliêta 👋
 
-🐞🎯 Analista de Qualidade de Software Júnior III - QA 🐞🎯 
+🐞 🎯 Analista de Qualidade de Software Júnior III - QA 🐞 🎯 
 
 🚀 Atuo com foco na prevenção de bugs, promovendo uma mentalidade voltada para a qualidade em toda a equipe e em seus procesos.
 💪🏼Vamos testar?!
