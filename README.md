@@ -30,9 +30,20 @@
  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
   </a>
-<a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Badge">
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps Badge"> </a>
+<a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
   </a>
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
+  </a>
+ <a href="https://www.datadoghq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog Badge">
+  </a>
+
+
+
 </div>
 
 
