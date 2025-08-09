@@ -14,7 +14,7 @@
 - ✍🏼 BDD e Gherkin
 - 🤝🏼 Apoio ao PO
 - 🧪 Execução e Evidência
-- 💻 Azure DevOps
+- 💻 Experiência com ferramentas como Azure DevOps e Jira
 - 📌 Participação de cerimônias ágeis
 - 🔎 Proposição de melhora contínua 
 
@@ -52,6 +52,11 @@
   <a href="https://learn.microsoft.com/sql/" target="_blank">
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge">
   </a>
+ </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
+  </a>
+
 </div>
 
 
