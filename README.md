@@ -26,11 +26,9 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
+  </a><a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+  </a><a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps Badge">
   </a>
   <a href="https://www.postman.com/" target="_blank">
