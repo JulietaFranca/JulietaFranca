@@ -5,7 +5,7 @@
 🚀 Atuo com foco na prevenção de bugs, promovendo uma mentalidade voltada para a qualidade em toda a equipe e em seus procesos.
 💪🏼Vamos testar?!
 
-🔧 Responsabilidades de Ferramentas: 
+🔧 Responsabilidades: 
 
 - 🖊️Inserindo e facilitando a aplicação de processos de qualidade no ciclo de desenvolvimento do produto com entregas otimizadas
 - ⚙️ Execução de testes exploratórios, regressivos, integração e manuais (caixa preta)
@@ -22,5 +22,5 @@
   <a href="https://www.linkedin.com/in/juliêta-de-frança-974567184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Ferramentas 
+### 🛠️Ferramentas 
 
