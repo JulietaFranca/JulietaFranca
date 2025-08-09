@@ -3,7 +3,7 @@
 🐞 🎯 Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar fluxos e garantir entregas com excelência. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua. 🐞 🎯 
 💪🏼Vamos testar?!
 
-##📝 Sobre mim
+### 📝 Sobre mim
 
 - 🖊️Inserindo e facilitando a aplicação de processos de qualidade no ciclo de desenvolvimento do produto com entregas otimizadas
 - ⚙️ Execução de testes exploratórios, regressivos, integração e manuais (caixa preta)
