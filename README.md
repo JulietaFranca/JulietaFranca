@@ -41,6 +41,20 @@
  <a href="https://www.datadoghq.com/" target="_blank">
     <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog Badge">
   </a>
+<a href="https://www.cypress.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge">
+  </a>
+<a href="https://www.soapui.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logo=soapui&logoColor=white" alt="SoapUI Badge">
+  </a>
+<a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
+  </a>
+<a href="https://learn.microsoft.com/sql/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge">
+  </a>
+
+
 
 
 
