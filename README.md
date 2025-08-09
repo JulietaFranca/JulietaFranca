@@ -1,8 +1,6 @@
 ## Oi! Eu sou a Juliêta 👋
 
-🐞 🎯 Analista de Qualidade de Software Júnior - QA 🐞 🎯 
-
-🚀 Atuo com foco na prevenção de bugs, promovendo uma mentalidade voltada para a qualidade em toda a equipe e em seus procesos.
+🐞 🎯 Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar fluxos e garantir entregas com excelência. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua. 🐞 🎯 
 💪🏼Vamos testar?!
 
 🔧 Responsabilidades: 
@@ -17,6 +15,7 @@
 - 💻 Experiência com ferramentas como Azure DevOps e Jira
 - 📌 Participação de cerimônias ágeis
 - 🔎 Proposição de melhora contínua 
+- 🧰 Ferramentas técnicas: SQL Server,PostgreSQL,Postman,Swagger,SoapUI e Cypress
 
 <div>
   <a href="https://www.linkedin.com/in/juliêta-de-frança-974567184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
