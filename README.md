@@ -36,8 +36,7 @@
   </a>
   <a href="https://swagger.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
-  </a>
-  <a href="https://www.datadoghq.com/" target="_blank">
+  </a><a href="https://www.datadoghq.com/" target="_blank">
     <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog Badge">
   </a>
   <a href="https://www.cypress.io/" target="_blank">
