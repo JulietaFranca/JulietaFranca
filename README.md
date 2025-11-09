@@ -6,17 +6,22 @@
 
 ### 📝 Sobre mim
 
-- 🖊️Inserindo e facilitando a aplicação de processos de qualidade no ciclo de desenvolvimento do produto com entregas otimizadas
-- ⚙️ Execução de testes exploratórios, regressivos, integração e manuais (caixa preta)
-- 🐞 Análise, monitoramento/gestão, report de bugs/inconsistências, validando correções durante a execução das sprints
-- 🗓️ Planejamento, Estimativas e Documentação
-- ✍🏼 BDD e Gherkin
-- 🤝🏼 Apoio ao PO
-- 🧪 Execução e Evidência
+- 🖊️Aplicação e facilitação de processos de qualidade ao longo do ciclo de desenvolvimento, contribuindo para entregas otimizadas e de maior confiabilidade.
+- ⚙️ Execução de testes exploratórios, regressivos, integração,manuais (caixa preta) e automatizados.
+- 🐞 Análise, monitoramento, gestão e reporte de bugs/inconsistências, além da validação das correções durante as sprints.
+- 🗓️ Atuação em planejamento, estimativas e documentação de requisitos e cenários.
+- ✍🏼 Escrita e manutenção de cenários utilizando BDD e Gherkin.
+- 🤝🏼 Apoio direto ao PO no refinamento e alinhamento de critérios de aceitação.
+- 🧪 Execução de testes e geração de evidências completas e auditáveis.
 - 💻 Experiência com ferramentas como Azure DevOps e Jira
-- 📌 Participação de cerimônias ágeis
-- 🔎 Proposição de melhora contínua 
-- 🧰 Ferramentas técnicas: SQL Server,PostgreSQL,Postman,Swagger,SoapUI e Cypress
+- 📌 Participação ativa em cerimônias ágeis (daily, planning, review e retrospective).
+- 🔎 Proposição de melhorias contínuas no fluxo de desenvolvimento e qualidade. 
+- 🧰 Ferramentas técnicas: SQL Server,PostgreSQL,Postman,Swagger,SoapUI e Cypress.
+- 🚀 Facilitação de práticas de shift-left e shift-right, incentivando testes antecipados e validações contínuas em ambiente produtivo.
+- 💬 Comunicação assertiva entre membros do time, promovendo feedbacks rápidos e reduzindo gargalos no fluxo de entrega.
+- 🧩 Capacidade de traduzir necessidades do negócio para requisitos testáveis, facilitando a comunicação entre áreas técnicas e não técnicas.
+- 🤝 Integração contínua com times de Desenvolvimento, UX/UI, Produto, Suporte e Infra, garantindo alinhamento de requisitos e mitigação de riscos técnicos.
+
 
 <div>
   <a href="https://www.linkedin.com/in/juliêta-de-frança-974567184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
